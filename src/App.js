@@ -50,6 +50,7 @@ function App() {
   const logOut = () => {
     setLogged(false);
     setSelectedFile(undefined);
+    setUrl(undefined);
   }
 
   return (
