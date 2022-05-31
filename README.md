@@ -19,7 +19,7 @@ install: npm install --save react-dropzone
 https://react-bootstrap.github.io/  
 install: npm install react-bootstrap bootstrap
 
-<img src='https://res.cloudinary.com/dvxr83sxr/image/upload/c_scale,w_960/v1654026819/Na%CC%88ytto%CC%88kuva_2022-5-31_kello_22.52.13_pg4ex1.png' width='480' style='borderRadius: 4px'></img>
+<img src='https://res.cloudinary.com/dvxr83sxr/image/upload/c_scale,w_960/v1654026819/Na%CC%88ytto%CC%88kuva_2022-5-31_kello_22.52.13_pg4ex1.png' width='480' style='border-radius: 4px;'></img>
 
 
 
